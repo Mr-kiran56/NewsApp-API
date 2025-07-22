@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+🚀🔥 Showcasing  the News Hub News App by Kiran Punna! 📰
+
+Stay updated with the latest news from around the world with News Hub, built by Kiran Punna! This app fetches real-time news from The News API, covering various categories like World, Business, Technology, Sports, Health, and more.
+
+🔹 Built with Modern Web Technologies
+
+ Developed using React.js, this app delivers a fast, interactive, and seamless user experience. Designed with front-end best practices, it ensures a smooth UI and optimal performance.
+
+🔹 Key Features:
+
+ ✅ Fetches live news updates from trusted sources
+
+ ✅ Covers multiple news categories for personalized reading
+
+ ✅ Redirects to the original reference websites for full articles
+
+ ✅ Sleek, modern, and user-friendly interface
+
+Stay informed, stay ahead! 📲 Explore the latest happenings worldwide with News Hub. 🌍✨
