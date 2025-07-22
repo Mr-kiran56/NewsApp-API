@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Laura Kuenssberg: Angela Rayner and Keir Starmer want more housing - but are their plans radical enough?",
+        "description": "A blizzard of statistics show just how tough it is to buy a home if you can theoretically afford it, writes Laura Kuenssberg.",
+        "url": "https://www.bbc.co.uk/news/articles/c93lxvz42k7o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0087/live/b2176530-e565-11ef-bd1b-d536627785f2.png",
+        "publishedAt": "2025-02-08T13:07:17.6240853Z",
+        "content": "Sir Keir Starmer has shouted about building homes since his opposition days, trying out the line \"we are the builders\" at his party's conference in 2023 and repeating it since. Sources in the sector … [+2389 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Chelsea Handler 'thanks' Lively and Baldoni at awards ceremony",
+        "description": "The Critics Choice Awards host described their lawsuits as \"distracting\".",
+        "url": "https://www.bbc.co.uk/news/articles/cvgejerj1nvo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68a8/live/291705c0-e60e-11ef-a319-fb4e7360c4ec.jpg",
+        "publishedAt": "2025-02-08T12:22:23.6397587Z",
+        "content": "Meanwhile, Demi Moore took another leap ahead in the Oscars race, winning best actress at Friday's ceremony.\r\nThe 62-year-old, who also scooped up the award at last month's Golden Globes, has enjoyed… [+1029 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Judge blocks Musk team access to Treasury Department records",
+        "description": "Nineteen state attorneys general sued the Trump administration after the Department of Government Efficiency (Doge) was given access.",
+        "url": "https://www.bbc.co.uk/news/articles/cjw4g2q62xqo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fcb1/live/e89c6600-e60a-11ef-af01-096ba6900a39.jpg",
+        "publishedAt": "2025-02-08T12:07:21.7811493Z",
+        "content": "There was no immediate comment from the White House, President Donald Trump or Musk.\r\nThe Democratic state attorneys general sued Trump, the Treasury Department and Treasury Secretary Scott Bessent o… [+1244 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Freed Israeli hostage Eli Sharabi's British family 'very emotional'",
+        "description": "The in-laws of Eli Sharabi say they are worried he may not know his wife and daughters have been killed.",
+        "url": "https://www.bbc.co.uk/news/articles/c2l0yjnnd4go",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aeb1/live/317235b0-e608-11ef-a319-fb4e7360c4ec.png",
+        "publishedAt": "2025-02-08T11:52:22.1253168Z",
+        "content": "Mr Sharabi's father-in-law Pete Brisley, who also lives in Bridgend, says there were no witnesses to the attack on the Sharabi home, which means the family does not know whether he is aware of the de… [+1514 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Male suicide: Director makes film to raise awareness",
+        "description": "Film producer Andrew Jenkins is selling an Aston Martin to fund a film to raise awareness of suicide.",
+        "url": "https://www.bbc.co.uk/news/articles/cj30l6y5x47o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f45/live/8fe3b2e0-e5f4-11ef-bd1b-d536627785f2.jpg",
+        "publishedAt": "2025-02-08T11:52:19.7798297Z",
+        "content": "The screenplay for their proposed film, Bubbles, tells the stories of people who have experienced the devastation of suicide.\r\nSue Davies, from Brynmawr, Blaenau Gwent, who lost her son Daniel to sui… [+582 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "PlayStation Network outage reported worldwide",
+        "description": "PlayStation has vowed to fix the outage, which began late on Friday night, as soon as possible.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yezew49k4o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a7f/live/22ae9960-e5f9-11ef-a4b9-e5ce494c185e.jpg",
+        "publishedAt": "2025-02-08T10:22:15.0935849Z",
+        "content": "The PlayStation Network has been experiencing a multi-hour outage that began on Friday evening. \r\nAccording to Sony's PSN status page, account management, gaming and social, PlayStation Video, PlaySt… [+376 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Climate change: The Panama community that fled its drowning island",
+        "description": "Rising sea levels threaten an indigenous group's home in Panama, but not everyone wants to leave.",
+        "url": "https://www.bbc.co.uk/news/articles/cz0lg9pedz1o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e167/live/2ac0e800-d993-11ef-a7d7-813810cd836f.jpg",
+        "publishedAt": "2025-02-08T08:37:18.718605Z",
+        "content": "On Gardi Sugdub, waves whipped up during the rainy season wash into homes, lapping below the hammocks where families sleep.\r\nMr Paton says, \"it is very unlikely that the island will be habitable by 2… [+751 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Woman evicted from NHS hospital ward after being stuck for 18 months",
+        "description": "She lived in a cubicle, despite being fit to leave, because of difficulties finding a care home.",
+        "url": "https://www.bbc.co.uk/news/articles/c897ew0ekp4o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0854/live/a2d41ea0-dcb0-11ef-bc01-8f2c83dad217.jpg",
+        "publishedAt": "2025-02-08T05:37:30.0626341Z",
+        "content": "Under the 2014 Care Act, Jessie should be able to express a preference about where she lives.\r\nShe has mental capacity, but was assessed by the NHS as needing a professional advocate to support her i… [+3361 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "'My university course made me who I am - now it's being cut'",
+        "description": "Universities are cutting jobs to make financial savings, with students and staff bearing the brunt.",
+        "url": "https://www.bbc.co.uk/news/articles/cz9e2xw9p8po",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ada6/live/b9373bb0-e56f-11ef-8b8c-73fc0bbdc30b.jpg",
+        "publishedAt": "2025-02-08T05:37:24.1242596Z",
+        "content": "In January, the University of Kent said more jobs would be cut in a bid to save nearly £20m.\r\nLast February, the university announced proposals to cut 58 jobs and \"phase out\" six subjects - art histo… [+1539 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Santorini earthquake: Tourists flee but resilient locals stay",
+        "description": "People started evacuating the island as it was shook by tremors - but not everyone is fleeing.",
+        "url": "https://www.bbc.co.uk/news/articles/c8059mny2g3o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21e9/live/ba560b70-e56a-11ef-bd1b-d536627785f2.jpg",
+        "publishedAt": "2025-02-08T05:37:21.7967134Z",
+        "content": "\"The noise from the earthquake, the sounds of [other people's] homes breaking apart - it's unbearable. Even in my house, it's become overwhelming,\" says Margarita Karamolegkou, a local businesswoman.… [+1035 chars]"
+      }
+    ]
+  }
